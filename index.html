@@ -20,7 +20,7 @@
               <p style="text-align:center">
                 <name>Rose E. Wang</name>
               </p>
-              <p>I am currently a first year PhD student at Stanford University. I am grateful to be funded by the NSF Graduate Research Fellowship.</p>
+              <p>I am currently a second year PhD student at Stanford University, adivsed by <a href="https://cocolab.stanford.edu/ndg">Noah Goodman</a>. I am grateful to be funded by the NSF Graduate Research Fellowship.</p>
               <p> During my undergraduate studies at MIT, I worked with Professor <a href="http://web.mit.edu/cocosci/josh.html">Josh Tenenbaum</a>, 
          Professor <a href="https://www.mit.edu/~jhow/">Jonathan How</a>, 
         <a href="https://research.google/teams/brain/">Google Brain</a> (student researcher) and 
@@ -56,6 +56,8 @@
         <h2>News</h2>
 
             <ul>
+                <li><b>January 2022</b>: <b>Oral @ ICLR 2022</b> - Our work <a href="https://arxiv.org/pdf/2110.05422.pdf">Language modeling via stochastic processes</a> was accepted to ICLR 2022 as an oral (<1.6%).</li> 
+                <li><b>August 2021</b>: <b>Paper @ EMLNLP 2021</b> - Our work <a href="https://arxiv.org/pdf/2110.05422.pdf">Calibrate your listeners! Robust communication-based training for pragmatic speakers</a> was accepted to Findings of EMNLP 2021.</li> 
                 <li><b>April 2021</b>: <b>Blog</b> - Published a <a href="https://ai.googleblog.com/2021/04/model-based-rl-for-decentralized-multi.html">Google AI Blog post</a> on our multirobot collaboration work, <a href="https://arxiv.org/abs/2003.06906"> Model-based Reinforcement Learning for Multiagent Goal Alignment</a>.</li> 
                 <li><b>January 2021</b>: <b>Workshop</b> - Co-organizing the workshop <a href="https://sites.google.com/view/neverendingrl/home?authuser=0">A Roadmap to Never-Ending Reinforcement Learning</a> at ICLR 2021. Please consider submitting your work!</li>
                 <li><b>December 2020</b>: <b style="color:red">Best paper award</b> - Awarded the <b><a href="https://www.cooperativeai.com/home">NeurIPS 2020 Cooperative AI workshop</a> best paper award</b> for our work, <a href="https://arxiv.org/abs/2003.11778">"Too many cooks: Bayesian inference for coordinating multi-agent collaboration"</a>!
@@ -71,6 +73,95 @@
             <!--<h2>Research 	&#129302;</h2>-->
         <h2>Research</h2>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+                <!--
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/todo.png" alt="hpp" style="border-style: none" width="200">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="todo_link">
+                <papertitle>TODO_paper_title</papertitle>
+              </a>
+              <br>
+              <strong>Rose E. Wang</strong>,
+              TODO,
+              <a href="http://web.mit.edu/cocosci/josh.html">Noah Goodman</a>,
+              <br>
+              <em>TODO conference venue</em>. 
+              <br>
+              <p>TODO tldr</p>
+            </td>
+          </tr>
+                -->
+
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/lm_via_sp.png" alt="hpp" style="border-style: none" width="200">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://openreview.net/forum?id=pMQwKL1yctf">
+                  <papertitle>Language modeling via stochastic processes</papertitle>
+              </a>
+              <br>
+              <strong>Rose E. Wang</strong>,
+              <a href="https://esdurmus.github.io/">Esin Durmus</a>,
+              <a href="https://cocolab.stanford.edu/ndg">Noah Goodman</a>,
+              <a href="https://thashim.github.io/">Tatsunori Hashimoto</a>,
+              <br>
+              <em>International Conference for Learning Representations (ICLR) 2022</em>. 
+              <b><p style="color:red">Oral Presentation (1.6% oral acceptance rate)</p></b>
+              [
+              <a href="https://openreview.net/forum?id=pMQwKL1yctf">Paper</a> /
+              <a href="https://www.youtube.com/watch?v=AwnoASlxeIs&t=13s&ab_channel=RoseWang">Video</a> /
+              <a href="https://github.com/rosewang2008/language_modeling_via_stochastic_processes">Code</a> ]
+              <br>
+              <p>Modern language models can generate high-quality short texts. However, they often meander or are incoherent when generating longer texts. These issues arise from the next-token-only language modeling objective. To address these issues, we introduce Time Control (TC), a language model that implicitly plans via a latent stochastic process. TC does this by learning a representation which maps the dynamics of how text changes in a document to the dynamics of a stochastic process of interest. Using this representation, the language model can generate text by first implicitly generating a document plan via a stochastic process, and then generating text that is consistent with this latent plan. Compared to domain-specific methods and fine-tuning GPT2 across a variety of text domains, TC improves performance on text infilling and discourse coherence. On long text generation settings, TC preserves the text structure both in terms of ordering (up to +40% better) and text length consistency (up to +17% better).  Human evaluators also prefer TC's output 28.6% more than the baselines.</p>
+            </td>
+          </tr>
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/cyl.png" alt="hpp" style="border-style: none" width="200">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/pdf/2110.05422.pdf">
+                <papertitle>Calibrate your listeners! Robust communication-based training for pragmatic speakers</papertitle>
+              </a>
+              <br>
+              <strong>Rose E. Wang</strong>,
+              Julia White,
+              <a href="https://cs.stanford.edu/~muj/">Jesse Mu</a>,
+              <a href="https://cocolab.stanford.edu/ndg">Noah Goodman</a>,
+              <br>
+              <em>Findings of EMNLP 2021</em>. 
+              <br>
+              [
+              <a href="https://arxiv.org/pdf/2110.05422.pdf">Paper</a> /
+              <a href="https://github.com/rosewang2008/calibrate_your_listeners">Video</a> /
+              <a href="https://github.com/rosewang2008/calibrate_your_listeners">Code</a> ]
+              <p> To be good conversational partners, natural language processing (NLP) systems should be trained to produce contextually useful utterances. Prior work has investigated training NLP systems with communication-based objectives, where a neural listener stands in as a communication partner. However, these systems commonly suffer from semantic drift where the learned language diverges radically from natural language. We propose a method that uses a population of neural listeners to regularize speaker training.</p>
+            </td>
+          </tr>
+
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="images/fm.png" alt="hpp" style="border-style: none" width="200">
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/pdf/2108.07258.pdf">
+                <papertitle>On the opportunities and risks of foundation models</papertitle>
+              </a>
+              <br>
+              Many authors...,
+              <strong>Rose E. Wang</strong>,
+              more authors,...
+              <br>
+              <em>August 2021</em>. 
+              <br>
+              <p>This report provides a thorough account of the opportunities and risks of foundation models, ranging from their capabilities (e.g., language, vision, robotics, reasoning, human interaction) and technical principles(e.g., model architectures, training procedures, data, systems, security, evaluation, theory) to their applications (e.g., law, healthcare, education) and societal impact (e.g., inequity, misuse, economic and environmental impact, legal and ethical
+              considerations)..</p>
+            </td>
+          </tr>
 
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
