@@ -4,7 +4,15 @@ news:
       category: "current"
 
     - time: "October 2024"
+      events: "Invited talk at MIT"
+      category: "current"
+
+    - time: "October 2024"
       events: "Invited talk at University of Washington"
+      category: "current"
+
+    - time: "October 2024"
+      events: "Invited talk at UC Berkeley, SESAME Colloquium"
       category: "current"
 
     - time: "October 2024"

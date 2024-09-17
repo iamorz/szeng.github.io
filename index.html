@@ -7,11 +7,12 @@ title: Home
   <h4>Bio</h4>
   <p>
     I am a PhD student at Stanford University's Computer Science Department, advised by <a href=https://cs.stanford.edu/~diyiy/ target="_blank">Diyi Yang</a> and <a href=https://www.dorademszky.com/ target="_blank">Dora Demszky</a>. I also collaborate closely with <a href=https://ed.stanford.edu/faculty/sloeb target="_blank">Susanna Loeb</a>.
+    I develop <b>machine learning</b> (ML) and <b>natural language processing</b> (NLP) methods for real-world domains, with a focus on <b>Education</b> as a critical domain with profound societal impact. 
 </p>
   <p>
-    I develop machine learning (ML) systems for scaling real-world expertise.
-    <b>I care about scaling AI for the benefit of society, particularly in education</b>: My research exists in industry-level systems and improves student outcomes through my cultivated partnerships with stakeholders, including Title I school districts and several education companies, impacting 200,000+ students, 1,700+ teachers, 16,100+ tutors, in millions of tutoring sessions across the U.S., UK and India.
-    My work is recognized by a Best Paper Award at CogSci, Best Paper Award at  NeurIPS Cooperative AI, Best Paper Award at BEA, ICLR Oral, NSF Graduate Research Fellowship, Rising Star in Data Science, Tools Competition Award.
+    <b>My work introduces algorithms and benchmarks for <i>scaling expertise</i>, i.e., building language models that capture expert reasoning.</b> 
+    My research is deployed in industry and directly improves the education of under-served students through partnerships I've cultivated during my Ph.D. at Stanford, including Title I school districts and several education companies, impacting 200,000+ students, 1,700+ teachers, 16,100+ tutors, in millions of tutoring sessions across the U.S., UK and India.
+    My work is recognized by a Best Paper Award at CogSci, Best Paper Award at  NeurIPS Cooperative AI, Best Paper Award at BEA, ICLR Oral, NSF Graduate Research Fellowship, Rising Star in Data Science, and Tools Competition Award.
   </p>
   <p>
     I did my undergrad at MIT (2020) with Profs. Josh Tenenbaum, Jonathan How, Google Brain and Google Brain Robotics on multiagent systems & reinforcement learning. 
@@ -70,6 +71,9 @@ title: Home
           {% if paper.award %}
             <p><b style="color:#4682b4">{{ paper.award }}</b></p>
           {% endif %}
+          {% if paper.news %}
+            <p><b style="color:#b11cd6">{{ paper.news }}</b></p>
+          {% endif %}
            <div class="paper-buttons">
 
           </div>
@@ -85,6 +89,9 @@ title: Home
           <p class="title"><b>{{ paper.title }}</b>
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
+            {% endif %}
+            {% if paper.pap %}
+              <a class="button" href="{{ paper.pap }}" target="_blank">Preregistration</a>
             {% endif %}
             {% if paper.slides %}
               <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
@@ -104,6 +111,9 @@ title: Home
           <p><i>{{ paper.extra_venue }}</i></p>
           {% if paper.award %}
           <p><b style="color:#4682b4">{{ paper.award }}</b></p>
+          {% endif %}
+          {% if paper.news %}
+            <p><b style="color:#af64f0">{{ paper.news }}</b></p>
           {% endif %}
           <div class="paper-buttons">
 
