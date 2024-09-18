@@ -20,8 +20,11 @@ papers:
   - title: "🌁 Bridging the Novice-Expert Gap via Models of Decision-Making"
     authors: "<b>Rose E. Wang</b>, Qingyang Zhang, Carly Robinson, Susanna Loeb, Dora Demszky"
     venue: "North American Chapter of the Association for Computational Linguistics (NAACL 2024)"
-    paper_pdf: https://arxiv.org/pdf/2310.10648
     selected: y
+    paper_pdf: https://arxiv.org/pdf/2310.10648
+    code: https://github.com/rosewang2008/bridge
+    video: https://www.youtube.com/watch?v=bX5monUe93M
+    poster: "assets/posters/bridge-poster.pdf"
     news: "Featured in <a href='https://hai.stanford.edu/news/designing-natural-language-processing-tools-teachers'>Stanford HAI</a> and Dan Meyer's <a href='https://danmeyer.substack.com/p/one-way-teachers-and-ai-could-help'>blog</a>"
     extra_venue: "Invited Presentation at the National Student Support Accelerator Conference (2024)."
 
@@ -30,13 +33,19 @@ papers:
     venue: "North American Chapter of the Association for Computational Linguistics (NAACL 2024)"
     extra_venue: "Invited Presentation at Education Data Mining (EDM 2024) LLM for EdTech Workshop, National Tutoring Observatory, Learning Analytics Learning Network"
     paper_pdf: https://arxiv.org/pdf/2402.05111
+    code: https://github.com/stanfordnlp/edu-convokit 
+    poster: "assets/posters/edu_convokit-poster.pdf"
+    video: https://www.youtube.com/watch?v=zdcI839vAko
     selected: y
 
   - title: "Backtracing: Retrieving the Cause of the Query"
     authors: "<b>Rose E. Wang</b>, Pawan Wirawarn, Omar Khattab, Noah Goodman, Dora Demszky"
     venue: "European Chapter of the Association for Computational Linguistics (EACL 2024) Long Paper Findings"
-    paper_pdf: https://arxiv.org/pdf/2403.03956
     selected: y
+    paper_pdf: https://arxiv.org/pdf/2403.03956
+    code: https://github.com/rosewang2008/backtracing
+    video: https://www.youtube.com/watch?v=hjkFp4q9urA
+    poster: "assets/posters/backtracing-poster.pdf"
     news: "Featured in <a href='https://hai.stanford.edu/news/designing-natural-language-processing-tools-teachers'>Stanford HAI</a>"
 
   - title: "Does Feedback on Talk Time Increase Student Engagement? Evidence from a Randomized Controlled Trial on a Math Tutoring Platform"
@@ -54,18 +63,29 @@ papers:
     authors: "Li Lucy, Tal August, <b>Rose E. Wang</b>, Luca Soldaini, Courtney Allison, Kyle Lo"
     venue: "Under submission."
     paper_pdf: https://arxiv.org/pdf/2408.04226
+    code: https://github.com/allenai/mathfish
 
   - title: "Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction"
     authors: "<b>Rose E. Wang</b>, Dora Demszky"
     venue: "Innovative Use of NLP for Building Educational Applications (BEA 2023)"
     award: "Ambassador (Best) Paper 🏆"
     paper_pdf: https://arxiv.org/pdf/2306.03090
+    code: https://github.com/rosewang2008/zero-shot-teacher-feedback
+    video: https://youtu.be/M729eZ8pFOU?si=il3Nk4scEi0M6_f0
     selected: y
+  
+  - title: "SIGHT: A Large Dataset on Student Insights Gathered from Higher Education Transcripts"
+    authors: "<b>Rose E. Wang</b>*, Pawan Wirawarn*, Noah Goodman, Dora Demszky"
+    venue: "Innovative Use of NLP for Building Educational Applications (BEA 2023)"
+    paper_pdf: https://arxiv.org/abs/2306.09343
+    code: https://github.com/rosewang2008/sight
+    video: https://www.youtube.com/watch?v=Yt-2jLJLKjI
 
   - title: "“Mistakes Help Us Grow”: Facilitating and Evaluating Growth Mindset Supportive Language in Classrooms"
     authors: "Kunal Handa, Margaret Clapper, Jessica Boyle, <b>Rose E. Wang</b>, Diyi Yang, David Yeager, Dora Demszky."
     venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
     paper_pdf: https://arxiv.org/pdf/2310.10637
+    code: https://github.com/kunhanda/growth_mindset
     news: "Featured in <a href='https://hai.stanford.edu/news/designing-natural-language-processing-tools-teachers'>Stanford HAI</a>"
 
   - title: "Language modeling via stochastic processes"
@@ -73,27 +93,37 @@ papers:
     venue: "ICLR 2022"
     award: "Oral Presentation (<1.6%)"
     paper_pdf: https://arxiv.org/pdf/2203.11370
+    code: https://github.com/rosewang2008/language_modeling_via_stochastic_processes
+    video: https://www.youtube.com/watch?v=AwnoASlxeIs
     selected: y
 
   - title: "Calibrate your listeners! Robust communication-based training for pragmatic speakers"
     authors: "<b>Rose E. Wang</b>, Julia White, Jesse Mu, Noah Goodman"
     venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) Findings"
     paper_pdf: https://arxiv.org/pdf/2110.05422
+    code: https://github.com/rosewang2008/calibrate_your_listeners
+    video: https://www.youtube.com/watch?v=XibugeVHzzM
   
   - title: "ELIGN: Expectation Alignment as a Multi-Agent Intrinsic Reward"
     authors: "Zixian Ma, <b>Rose E. Wang</b>, Fei-Fei Li, Michael Bernstein, Ranjay Krishna"
     venue: "Conference on Neural Information Processing Systems (NeurIPS 2022)"
     paper_pdf: https://arxiv.org/pdf/2210.04365
+    code: https://github.com/StanfordVL/alignment
   
   - title: "In the ZONE: Measuring difficulty and progression in curriculum generation"
     authors: "<b>Rose E. Wang</b>, Jesse Mu, Dilip Arumugam, Natasha Jaques, Noah Goodman"
     venue: "NeurIPS 2022 Deep Reinforcement Learning Workshop"
     paper_pdf: https://openreview.net/pdf?id=SgBHmHMctfd
+    video: https://www.youtube.com/watch?v=6PAihNlFOzw&pp=ygUPbXVsdGlhZ2VudCByb3Nl
   
   - title: "CLaP: Conditional Latent Planners for Offline Reinforcement Learning"
     authors: "Harry Shin, <b>Rose E. Wang</b>"
     venue: "NeurIPS 2022 Workshop on Foundation Models for Decision Making"
     paper_pdf: https://openreview.net/pdf?id=OQP7leJkAu
+
+  - title: "Speaking with confidence: Investigating the eﬀects of uncertainty in pragmatic language learning"
+    authors: "Pawan Wirawarn, <b>Rose E. Wang</b>, Noah Goodman"
+    poster: "assets/posters/pawan-confidence-poster.pdf"
   
   - title: "Know Thy Student: Interactive Learning with Gaussian Processes"
     authors: "<b>Rose E. Wang</b>, Mike Wu, Noah Goodman"
@@ -110,9 +140,12 @@ papers:
     venue: "Topics in Cognitive Science (2021); <i>Human-Like Machine Intelligence</i> (Oxford University Press)"
     paper_pdf: https://arxiv.org/pdf/2003.11778
     award: "Best Paper Award, CogSci 🏆; Best Paper Award, NeurIPS Cooperative AI Workshop 🏆"
+    code: https://github.com/rosewang2008/gym-cooking
+    video: https://www.youtube.com/watch?v=Fd4RcVaNthY
   
   - title: "Model-based Reinforcement Learning for Multiagent Goal Alignment"
     authors: "<b>Rose E. Wang</b>, Chase Kew, Dennis Lee, Tsang-Wei Edward Lee, Tingnan Zhang, Brian Ichter, Jie Tan, Aleksandra Faust."
     venue: "Conference on Robotic Learning (CoRL 2020)"
     paper_pdf: https://arxiv.org/pdf/2003.06906
     news: "Featured in the Google AI Year in Review 2020"
+    video: https://youtu.be/HqeYcO1DBUU?si=CWzB2OirYJqATvza
