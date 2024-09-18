@@ -53,7 +53,7 @@ papers:
   - title: "Evaluating Language Model Math Reasoning via Grounding in Educational Curricula"
     authors: "Li Lucy, Tal August, <b>Rose E. Wang</b>, Luca Soldaini, Courtney Allison, Kyle Lo"
     venue: "Under submission."
-    paper_pdf: "https://arxiv.org/pdf/2408.04226"
+    paper_pdf: https://arxiv.org/pdf/2408.04226
 
   - title: "Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction"
     authors: "<b>Rose E. Wang</b>, Dora Demszky"
@@ -91,7 +91,7 @@ papers:
     paper_pdf: https://openreview.net/pdf?id=SgBHmHMctfd
   
   - title: "CLaP: Conditional Latent Planners for Offline Reinforcement Learning"
-    authors: "Harry Shin, <b>Rose E. Wang</b>, Noah Goodman"
+    authors: "Harry Shin, <b>Rose E. Wang</b>"
     venue: "NeurIPS 2022 Workshop on Foundation Models for Decision Making"
     paper_pdf: https://openreview.net/pdf?id=OQP7leJkAu
   
@@ -108,7 +108,7 @@ papers:
   - title: "Too many cooks: Bayesian inference for coordination multi-agent collaboration"
     authors: "<b>Rose E. Wang</b>*, Sarah Wu, Joshua Tenenbaum, James Evans, David Parkes, Max Kleiman-Weiner"
     venue: "Topics in Cognitive Science (2021); <i>Human-Like Machine Intelligence</i> (Oxford University Press)"
-    paper_pdf: https://crfm.stanford.edu/assets/report.pdf
+    paper_pdf: https://arxiv.org/pdf/2003.11778
     award: "Best Paper Award, CogSci 🏆; Best Paper Award, NeurIPS Cooperative AI Workshop 🏆"
   
   - title: "Model-based Reinforcement Learning for Multiagent Goal Alignment"
