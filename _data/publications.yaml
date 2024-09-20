@@ -4,19 +4,7 @@ papers:
     venue: "Society for Research on Educational Effectiveness (SREE 2024), UChicago Becker Friedman Institute AI for Social Science Conference 2024, American Economic Association (AEA 2024)."
     pap: https://osf.io/8d6ha/
     selected: y
-
-  - title: "How Tutors Share or Split Attention Across Students in Small-Group Tutoring"
-    authors: "Qingyang Zhang*, <b>Rose E. Wang</b>*, Ana Ribeiro, Susanna Loeb, Dorottya (Dora) Demszky."
-    venue: "SREE 2024."
-    selected: y
-
-  - title: "ScaffGen: Scaling High-Leverage Curriculum Scaffolding in Middle-School Mathematics"
-    authors: "Rizwaan Malik, Dorna Abdi, <b>Rose E. Wang</b>, Dora Demszky"
-    venue: "Learning at Scale (L@S 2024); Under journal submission."
-    paper_pdf: https://edworkingpapers.com/sites/default/files/ai24-1028.pdf
-    selected: y
-    award: "Winner of 2024 Tools Competition 🏆"
-
+    
   - title: "🌁 Bridging the Novice-Expert Gap via Models of Decision-Making"
     authors: "<b>Rose E. Wang</b>, Qingyang Zhang, Carly Robinson, Susanna Loeb, Dora Demszky"
     venue: "North American Chapter of the Association for Computational Linguistics (NAACL 2024)"
@@ -38,10 +26,22 @@ papers:
     video: https://www.youtube.com/watch?v=zdcI839vAko
     selected: y
 
+
+  - title: "How Tutors Share or Split Attention Across Students in Small-Group Tutoring"
+    authors: "Qingyang Zhang*, <b>Rose E. Wang</b>*, Ana Ribeiro, Susanna Loeb, Dorottya (Dora) Demszky."
+    venue: "SREE 2024."
+    selected: y
+
+  - title: "ScaffGen: Scaling High-Leverage Curriculum Scaffolding in Middle-School Mathematics"
+    authors: "Rizwaan Malik, Dorna Abdi, <b>Rose E. Wang</b>, Dora Demszky"
+    venue: "Learning at Scale (L@S 2024); Under journal submission."
+    paper_pdf: https://edworkingpapers.com/sites/default/files/ai24-1028.pdf
+    selected: y
+    award: "Winner of 2024 Tools Competition 🏆"
+
   - title: "Backtracing: Retrieving the Cause of the Query"
     authors: "<b>Rose E. Wang</b>, Pawan Wirawarn, Omar Khattab, Noah Goodman, Dora Demszky"
     venue: "European Chapter of the Association for Computational Linguistics (EACL 2024) Long Paper Findings"
-    selected: y
     paper_pdf: https://arxiv.org/pdf/2403.03956
     code: https://github.com/rosewang2008/backtracing
     video: https://www.youtube.com/watch?v=hjkFp4q9urA
@@ -56,12 +56,12 @@ papers:
 
   - title: "Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations"
     authors: "<b>Rose E. Wang</b>, Pawan Wirawarn, Kenny Lam, Omar Khattab, Dora Demszky"
-    venue: "Under submission."
+    venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) Long Paper Findings."
     paper_pdf: ""
 
   - title: "Evaluating Language Model Math Reasoning via Grounding in Educational Curricula"
     authors: "Li Lucy, Tal August, <b>Rose E. Wang</b>, Luca Soldaini, Courtney Allison, Kyle Lo"
-    venue: "Under submission."
+    venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) Long Paper Findings."
     paper_pdf: https://arxiv.org/pdf/2408.04226
     code: https://github.com/allenai/mathfish
 
