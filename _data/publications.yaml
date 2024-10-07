@@ -2,6 +2,7 @@ papers:
   - title: "Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise"
     authors: "<b>Rose E. Wang</b>, Ana Ribeiro, Carly Robinson, Dora Demszky, Susanna Loeb."
     venue: "Society for Research on Educational Effectiveness (SREE 2024), UChicago Becker Friedman Institute AI for Social Science Conference 2024, American Economic Association (AEA 2024)."
+    paper_pdf: https://arxiv.org/abs/2410.03017
     pap: https://osf.io/8d6ha/
     selected: y
     
