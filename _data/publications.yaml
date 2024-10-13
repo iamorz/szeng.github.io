@@ -5,6 +5,7 @@ papers:
     paper_pdf: https://arxiv.org/abs/2410.03017
     pap: https://osf.io/8d6ha/
     selected: y
+    video: https://www.youtube.com/watch?v=tWZwmHEtaiQ
     news: "Featured in <a href='https://www.the74million.org/article/study-ai-assisted-tutoring-boosts-students-math-skills/'>the 74</a>, <a href='https://www.k12dive.com/news/ai-tutor-effectiveness-stanford-university/728980/'>K-12 Dive</a>, <a href='https://www.marktechpost.com/2024/10/08/researchers-at-stanford-university-introduce-tutor-copilot-a-human-ai-collaborative-system-that-significantly-improves-real-time-tutoring-quality-for-students/'>MarkTechPost</a>."
     
   - title: "🌁 Bridging the Novice-Expert Gap via Models of Decision-Making"
