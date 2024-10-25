@@ -1,5 +1,6 @@
 papers:
-  - title: "Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise"
+# put an image next to titl/Users/rewang/Documents/rosewang2008.github.io/images/tcp.gife
+  - title: "<img src='images/tcp.gif' style='width: 30px; height: 30px; margin-right: -1px;'> Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise"
     authors: "<b>Rose E. Wang</b>, Ana Ribeiro, Carly Robinson, Dora Demszky, Susanna Loeb."
     venue: "Society for Research on Educational Effectiveness (SREE 2024), UChicago Becker Friedman Institute AI for Social Science Conference 2024, American Economic Association (AEA 2024)."
     paper_pdf: https://arxiv.org/abs/2410.03017
@@ -19,7 +20,7 @@ papers:
     news: "Featured in <a href='https://hai.stanford.edu/news/designing-natural-language-processing-tools-teachers'>Stanford HAI</a> and Dan Meyer's <a href='https://danmeyer.substack.com/p/one-way-teachers-and-ai-could-help'>blog</a>"
     extra_venue: "Invited Presentation at the National Student Support Accelerator Conference (2024)."
 
-  - title: "Edu-ConvoKit: An Open-Source Library for Education Conversation Data"
+  - title: "<img src='images/eck.png' style='width: 25px; height: 25px; margin-right: 2px;'>Edu-ConvoKit: An Open-Source Library for Education Conversation Data"
     authors: "<b>Rose E. Wang</b>, Dora Demszky"
     venue: "North American Chapter of the Association for Computational Linguistics (NAACL 2024)"
     extra_venue: "Invited Presentation at Education Data Mining (EDM 2024) LLM for EdTech Workshop, National Tutoring Observatory, Learning Analytics Learning Network"
