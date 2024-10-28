@@ -15,6 +15,10 @@ news:
       events: "Invited talk at TeachFX"
       category: "current"
 
+    - time: "November 2024"
+      events: "Invited talk at Worcester Polytechnic Institute"
+      category: "current"
+
     - time: "October 2024"
       events: "Invited talk at Harvard University, Graduate School of Education"
       category: "current"
@@ -24,15 +28,15 @@ news:
       category: "current"
 
     - time: "October 2024"
+      events: "How to build your own Tutor CoPilot? I release <a href='https://github.com/rosewang2008/tutor-copilot'>code</a>, <a href='https://colab.research.google.com/drive/11eZ04vTEAit5bmp3Yl2KHhO3YLoILsd-'>Colab notebook</a> and <a href='https://www.youtube.com/watch?v=vV0jXEs4hdw'>tutorial video</a> showing how!"
+      category: "current"
+
+    - time: "October 2024"
       events: "Invited talk at KAIST"
       category: "current"
 
     - time: "October 2024"
-      events: "Invited talk at Worcester Polytechnic Institute"
-      category: "current"
-
-    - time: "October 2024"
-      events: "Tutor CoPilot highlights video is released. <a href='https://www.youtube.com/watch?v=tWZwmHEtaiQ'>Watch it here</a>."
+      events: "Tutor CoPilot research primer video is released. <a href='https://www.youtube.com/watch?v=tWZwmHEtaiQ'>Watch it here</a>."
       category: "current"
     
     - time: "October 2024"
