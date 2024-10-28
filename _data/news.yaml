@@ -12,6 +12,10 @@ news:
       category: "current"
 
     - time: "November 2024"
+      events: "Invited talk at the Learning Agency"
+      category: "current"
+
+    - time: "November 2024"
       events: "Invited talk at TeachFX"
       category: "current"
 
@@ -28,7 +32,7 @@ news:
       category: "current"
 
     - time: "October 2024"
-      events: "Want to build your own Tutor CoPilot? I released <a href='https://github.com/rosewang2008/tutor-copilot'>code</a>, <a href='https://colab.research.google.com/drive/11eZ04vTEAit5bmp3Yl2KHhO3YLoILsd-'>Colab notebook</a> and <a href='https://www.youtube.com/watch?v=vV0jXEs4hdw'>tutorial video</a> showing how!"
+      events: "Want to build <b>your own Tutor CoPilot</b>? I released <a href='https://github.com/rosewang2008/tutor-copilot'>code</a>, <a href='https://colab.research.google.com/drive/11eZ04vTEAit5bmp3Yl2KHhO3YLoILsd-'>Colab notebook</a> and <a href='https://www.youtube.com/watch?v=vV0jXEs4hdw'>tutorial video</a> showing how to!"
       category: "current"
 
     - time: "October 2024"
