@@ -3,6 +3,18 @@ news:
       events: "Invited talk at UT Austin"
       category: "current"
 
+    - time: "December 2024"
+      events: "Invited talk at Cohere for AI"
+      category: "current"
+
+    - time: "November 2024"
+      events: "✨ Highlighted as a <b>Leader in AI & Education</b> by <a href='https://www.aiforeducation.io/blog/spotlight-highered'>AI for Education</a>."
+      category: "current"
+
+    - time: "November 2024"
+      events: "Two works at EMNLP 2024: Evaluating LLMs on real-world math curriculum (<a href='https://arxiv.org/pdf/2408.04226'>link</a>) and on Problem-Oriented Segmentation and Retrievel (<a href='https://arxiv.org/pdf/2411.07598'>link</a>)."
+      category: "current"
+
     - time: "November 2024"
       events: "Invited talk at Princeton University"
       category: "current"

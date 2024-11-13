@@ -63,7 +63,9 @@ papers:
   - title: "Problem-Oriented Segmentation and Retrieval: Case Study on Tutoring Conversations"
     authors: "<b>Rose E. Wang</b>, Pawan Wirawarn, Kenny Lam, Omar Khattab, Dora Demszky"
     venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) Long Paper Findings."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2411.07598"
+    video: "https://www.youtube.com/watch?v=7brgJyDYvio"
+    code: https://github.com/rosewang2008/posr
 
   - title: "Evaluating Language Model Math Reasoning via Grounding in Educational Curricula"
     authors: "Li Lucy, Tal August, <b>Rose E. Wang</b>, Luca Soldaini, Courtney Allison, Kyle Lo"
