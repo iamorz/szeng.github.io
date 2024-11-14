@@ -33,7 +33,7 @@ papers:
 
 
   - title: "How Tutors Share or Split Attention Across Students in Small-Group Tutoring"
-    authors: "Qingyang Zhang*, <b>Rose E. Wang</b>*, Ana Ribeiro, Susanna Loeb, Dorottya (Dora) Demszky."
+    authors: "Qingyang Zhang*, <b>Rose E. Wang</b>*, Ana Ribeiro, Susanna Loeb, Dora Demszky"
     venue: "SREE 2024."
     selected: y
 
@@ -155,7 +155,7 @@ papers:
     authors: "<b>Rose E. Wang</b>, Chase Kew, Dennis Lee, Tsang-Wei Edward Lee, Tingnan Zhang, Brian Ichter, Jie Tan, Aleksandra Faust."
     venue: "Conference on Robotic Learning (CoRL 2020)"
     paper_pdf: https://arxiv.org/pdf/2003.06906
-    news: "Featured in the Google AI Year in Review 2020"
+    news: "Featured in the <b>Google AI Year in Review 2020</b>. Check out our <a href='https://research.google/blog/model-based-rl-for-decentralized-multi-agent-navigation/'><b>blog post</b></a> too!"
     video: https://youtu.be/HqeYcO1DBUU?si=CWzB2OirYJqATvza
 
   - title: "R-MADDPG for Partially Observable Environments and Limited Communication"
