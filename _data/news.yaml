@@ -12,6 +12,10 @@ news:
       category: "current"
 
     - time: "November 2024"
+      events: "Two grants awarded by the Gates Foundation to continue my work on (a) developing AI and Education benchmarks and (b) developing Language CoPilots."
+      category: "current"
+
+    - time: "November 2024"
       events: "Two works at EMNLP 2024: Evaluating LLMs on real-world math curriculum (<a href='https://arxiv.org/pdf/2408.04226'>link</a>) and on Problem-Oriented Segmentation and Retrievel (<a href='https://arxiv.org/pdf/2411.07598'>link</a>)."
       category: "current"
 
