@@ -35,7 +35,6 @@ papers:
   - title: "How Tutors Share or Split Attention Across Students in Small-Group Tutoring"
     authors: "Qingyang Zhang*, <b>Rose E. Wang</b>*, Ana Ribeiro, Susanna Loeb, Dora Demszky"
     venue: "SREE 2024."
-    selected: y
 
   - title: "ScaffGen: Scaling High-Leverage Curriculum Scaffolding in Middle-School Mathematics"
     authors: "Rizwaan Malik, Dorna Abdi, <b>Rose E. Wang</b>, Dora Demszky"
@@ -43,6 +42,7 @@ papers:
     paper_pdf: https://edworkingpapers.com/sites/default/files/ai24-1028.pdf
     news: "Featured in <a href='https://the-learning-agency.com/the-cutting-ed/article/math-anxiety-there-are-apps-for-that/'>The Learning Agency</a>"
     award: "Winner of 2024 Tools Competition 🏆"
+    selected: y
 
   - title: "Backtracing: Retrieving the Cause of the Query"
     authors: "<b>Rose E. Wang</b>, Pawan Wirawarn, Omar Khattab, Noah Goodman, Dora Demszky"
