@@ -1,5 +1,9 @@
 news:
     - time: "December 2024"
+      events: "Tutor CoPilot is recognized in <a href='https://www.the74million.org/article/charts-that-defined-education-in-2024/'>the 74's</a> <b style='color:#4682b4'>Charts that Defined Education in 2024</b>."
+      category: "current"
+
+    - time: "December 2024"
       events: "Invited talk at UT Austin"
       category: "current"
 
