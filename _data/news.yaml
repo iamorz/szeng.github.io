@@ -1,4 +1,8 @@
 news:
+    - time: "January 2025"
+      events: "Two works, <a href='https://arxiv.org/pdf/2410.03017'>Tutor CoPilot</a> and <a href='https://arxiv.org/pdf/2310.10648'>Bridge</a>, are cited in the <a href='https://www.whitehouse.gov/wp-content/uploads/2025/01/ERP-2025.pdf'><b>2025 Economic Report of the President</b></a>."
+      category: "current"
+
     - time: "December 2024"
       events: "Tutor CoPilot is recognized in <a href='https://www.the74million.org/article/charts-that-defined-education-in-2024/'>the 74's</a> <b style='color:#4682b4'>Charts that Defined Education in 2024</b>."
       category: "current"
