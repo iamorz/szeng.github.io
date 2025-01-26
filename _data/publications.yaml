@@ -1,6 +1,6 @@
 papers:
   - title: "<img src='images/tcp.gif' style='width: 30px; height: 30px; margin-right: -1px;'> Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise"
-    authors: "<b>Rose E. Wang</b>, Ana Ribeiro, Carly Robinson, Susanna Loeb, Dora Demszky"
+    authors: "<b>Rose E. Wang</b>, Ana Ribeiro, Carly Robinson, Susanna Loeb*, Dora Demszky*"
     venue: "Society for Research on Educational Effectiveness (SREE 2024), UChicago Becker Friedman Institute AI for Social Science Conference 2024, American Economic Association (AEA 2024)."
     paper_pdf: https://arxiv.org/abs/2410.03017
     pap: https://osf.io/8d6ha/
@@ -32,12 +32,12 @@ papers:
 
 
   - title: "How Tutors Share or Split Attention Across Students in Small-Group Tutoring"
-    authors: "Qingyang Zhang*, <b>Rose E. Wang</b>*, Ana Ribeiro, Susanna Loeb, Dora Demszky"
+    authors: "Qingyang Zhang*, <b>Rose E. Wang</b>*, Ana Ribeiro, Susanna Loeb*, Dora Demszky*"
     venue: "SREE 2024."
 
   - title: "ScaffGen: Scaling High-Leverage Curriculum Scaffolding in Middle-School Mathematics"
     authors: "Rizwaan Malik, Dorna Abdi, <b>Rose E. Wang</b>, Dora Demszky"
-    venue: "Learning at Scale (L@S 2024); Under journal submission."
+    venue: "British Journal of Educational Technology 2025."
     paper_pdf: https://edworkingpapers.com/sites/default/files/ai24-1028.pdf
     news: "Featured in <a href='https://the-learning-agency.com/the-cutting-ed/article/math-anxiety-there-are-apps-for-that/'>The Learning Agency</a>"
     award: "Winner of 2024 Tools Competition 🏆"
