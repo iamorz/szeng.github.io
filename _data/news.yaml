@@ -1,4 +1,8 @@
 news:
+    - time: "February 2025"
+      events: "Co-wrote a piece on <a href='https://ai.stanford.edu/blog/teaching/'>the future of human learning in the age of AI</a> for the Stanford AI Lab blog."
+      category: "current"
+
     - time: "January 2025"
       events: "Two works, <a href='https://arxiv.org/pdf/2410.03017'>Tutor CoPilot</a> and <a href='https://arxiv.org/pdf/2310.10648'>Bridge</a>, are cited in the <a href='https://www.whitehouse.gov/wp-content/uploads/2025/01/ERP-2025.pdf'><b>2025 Economic Report of the President</b></a>."
       category: "current"
