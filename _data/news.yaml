@@ -1,6 +1,10 @@
 news:
     - time: "February 2025"
-      events: "Published an article on <a href='https://ai.stanford.edu/blog/teaching/'>the future of human learning in the age of AI</a>. Also translated in Spanish and featured on the <a href='https://blogs.iadb.org/educacion/es/esfuerzo-productivo-el-futuro-del-aprendizaje-humano-en-la-era-de-la-inteligencia-artificial/'>Inter-American Development Bank</a>."
+      events: "Research featured in Education Week, <a href='https://www.edweek.org/technology/the-new-teachers-aides-ai-tutors/2025/02'>The New Teachers' Aides: AI Tutors</a>."
+      category: "current"
+
+    - time: "February 2025"
+      events: "Published an article on <a href='https://ai.stanford.edu/blog/teaching/'>the future of human learning in the age of AI</a>. Featured on the <a href='https://blogs.iadb.org/educacion/es/esfuerzo-productivo-el-futuro-del-aprendizaje-humano-en-la-era-de-la-inteligencia-artificial/'>Inter-American Development Bank</a> (translated in Spanish)."
       category: "current"
 
     - time: "January 2025"
