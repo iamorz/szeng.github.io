@@ -1,7 +1,7 @@
 papers:
 
   - title: "<img src='images/tcp.gif' style='width: 30px; height: 30px; margin-right: -1px;'> Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise"
-    authors: "<b>Rose E. Wang</b>, Ana Ribeiro, Carly Robinson, Susanna Loeb*, Dora Demszky*"
+    authors: "<b>Rose E. Wang</b>, Ana Ribeiro, Carly Robinson, Susanna Loeb^, Dora Demszky^"
     venue: "Society for Research on Educational Effectiveness (SREE 2024), UChicago Becker Friedman Institute AI for Social Science Conference 2024, American Economic Association (AEA 2024)."
     paper_pdf: https://arxiv.org/pdf/2410.03017v2
     pap: https://osf.io/8d6ha/
@@ -31,15 +31,17 @@ papers:
     video: https://www.youtube.com/watch?v=zdcI839vAko
     selected: y
 
+  - title: "Educator Attention: How computational tools can systematically identify the distribution of a key resource for students"
+    authors: "Qingyang Zhang*, <b>Rose E. Wang</b>*, Ana Ribeiro, Dora Demszky^, Susanna Loeb^"
+    paper_pdf: https://arxiv.org/pdf/2502.20135
+    venue: "<i>Under submission</i>, 2025."
+    selected: y
+
   - title: "Productive Struggle: The Future of Human Learning in the Age of AI"
     authors: "<b>Rose E. Wang</b> and Megha Srivastava."
     paper_pdf: https://ai.stanford.edu/blog/teaching/
     news: "Stanford AI Lab. Translated in Spanish and featured on the <a href='https://blogs.iadb.org/educacion/es/esfuerzo-productivo-el-futuro-del-aprendizaje-humano-en-la-era-de-la-inteligencia-artificial/'>Inter-American Development Bank</a>."
     selected: y
-
-  - title: "How Tutors Share or Split Attention Across Students in Small-Group Tutoring"
-    authors: "Qingyang Zhang*, <b>Rose E. Wang</b>*, Ana Ribeiro, Susanna Loeb*, Dora Demszky*"
-    venue: "SREE 2024."
 
   - title: "ScaffGen: Scaling High-Leverage Curriculum Scaffolding in Middle-School Mathematics"
     authors: "Rizwaan Malik, Dorna Abdi, <b>Rose E. Wang</b>, Dora Demszky"
