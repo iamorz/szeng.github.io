@@ -1,5 +1,9 @@
 news:
     - time: "February 2025"
+      events: "New paper on Educator Attention across 1M+ utterances: <a href='https://arxiv.org/pdf/2502.20135'>link</a>."
+      category: "current"
+
+    - time: "February 2025"
       events: "Research featured in Education Week, <a href='https://www.edweek.org/technology/the-new-teachers-aides-ai-tutors/2025/02'>The New Teachers' Aides: AI Tutors</a>."
       category: "current"
 
