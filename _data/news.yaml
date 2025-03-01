@@ -4,6 +4,10 @@ news:
       category: "current"
 
     - time: "February 2025"
+      events: "Invited talk at University of Washington ECE (<a href='https://www.youtube.com/watch?v=E3XOY7cC4V8'>recording</a>)."
+      category: "current"
+
+    - time: "February 2025"
       events: "Research featured in Education Week, <a href='https://www.edweek.org/technology/the-new-teachers-aides-ai-tutors/2025/02'>The New Teachers' Aides: AI Tutors</a>."
       category: "current"
 
@@ -13,6 +17,10 @@ news:
 
     - time: "January 2025"
       events: "Two works, <a href='https://arxiv.org/pdf/2410.03017'>Tutor CoPilot</a> and <a href='https://arxiv.org/pdf/2310.10648'>Bridge</a>, are cited in the <a href='https://www.govinfo.gov/content/pkg/ERP-2025/pdf/ERP-2025.pdf'><b>2025 Economic Report of the President</b></a>."
+      category: "current"
+
+    - time: "December 2024"
+      events: "Invited talk at UC Berkeley EECS"
       category: "current"
 
     - time: "December 2024"
